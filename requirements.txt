@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+pyspark==3.2.1
+scipy
+scikit-learn
+h2o-pysparkling-3.2==3.36.1.2.post1
+statsmodels
+black
+plotly
+-e .
